@@ -19,7 +19,7 @@ images.
 
 ![vessel_img_samples](https://github.com/user-attachments/assets/ec58cd37-1105-485d-a5ad-f36c08754e94)
 
-Use of the Google Earth images must respect the "Google Earth" terms of use. All images and their associated annotations in VHRV dataset can be used for academic purposes only, but any commercial use is prohibited.
+Use of the Google Earth images must respect the ["Google Earth"](https://about.google/brand-resource-center/products-and-services/geo-guidelines/) terms of use. **All images and their associated annotations in VHRV dataset can be used for academic purposes only, but any commercial use is prohibited.**
 
 ### Download
 
