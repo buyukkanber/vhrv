@@ -83,6 +83,6 @@ We make this dataset available for **academical purposes only**. You may not use
 
 ## **Contact**
 
-For further information or any question, you can use the issues (https://github.com/buyukkanber/vhrv/issues) tab or send an email to me buyukkanber18@itu.edu.tr
+For further information or any question, you can use the issues (https://github.com/buyukkanber/vhrv/issues) tab
 
 
