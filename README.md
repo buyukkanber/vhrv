@@ -1,7 +1,7 @@
 # VHRV: Very High-Resolution Benchmark Dataset for Vessel Detection 
 VHRV (Very High Resolution Vessels) Dataset
 
-![detecting_vessels](https://github.com/user-attachments/assets/f5adfa74-a51b-45c1-901f-8c71dbb33f41)
+![detecting_vessels](https://github.com/user-attachments/assets/6fcad456-6a94-4390-b868-94feacfaf726)
 
 Welcome to the official repository for VHRV dataset, associated with our research article "VHRV: Very High-Resolution Benchmark Dataset for Vessel Detection" published in the Remote Sensing Applications: Society and Environment (RSASE) journal. To access our paper ---> **[VHRV Paper](https://authors.elsevier.com/a/1lWHP8M-mmzWZQ)** 
 
@@ -17,7 +17,7 @@ images.
 - **Annotation Format**: YOLO
 - **Annotation Style**: HBB (Horizontal Bounding Box)
 
-![vessel_img_samples](https://github.com/user-attachments/assets/ec58cd37-1105-485d-a5ad-f36c08754e94)
+![vessel_img_samples](https://github.com/user-attachments/assets/f1e9aa6b-fe2c-477a-a50c-53ae311ffda7)
 
 Use of the Google Earth images must respect the ["Google Earth"](https://about.google/brand-resource-center/products-and-services/geo-guidelines/) terms of use. **All images and their associated annotations in VHRV dataset can be used for academic purposes only, but any commercial use is prohibited.**
 
