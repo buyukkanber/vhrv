@@ -63,7 +63,6 @@ YOLO models were executed using their original source code libraries, with the e
 
 If you make use of the VHRV dataset, please cite our following paper: https://doi.org/10.1016/j.rsase.2025.101641
 
-Copyright Notice. These slides are distributed under the Creative Commons License.
 
 We make this dataset available for **academical purposes only**. You may not use or distribute this dataset for commercial purposes.
 
